@@ -2,6 +2,10 @@
 
 A tool to easily perform git fixup operations.
 
+## Demo
+
+[![asciicast](https://asciinema.org/a/710505.svg)](https://asciinema.org/a/710505)
+
 ## Features
 
 - Fixup staged changes to past commits
